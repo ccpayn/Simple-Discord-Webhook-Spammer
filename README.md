@@ -1,6 +1,5 @@
 # Simple-Discord-Webhook-Spammer
 
-Open cmd and write:
-pip install -r requirements.txt
+Simple Discord Webhook Spammer You'll figure it out, if you dont, join my discord
 
-Enjoy!
+discord.link/payn

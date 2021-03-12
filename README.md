@@ -1,5 +1,5 @@
 # Simple-Discord-Webhook-Spammer
 
-Simple Discord Webhook Spammer You'll figure it out, if you dont, join my discord
+Simple Discord Webhook Spammer 
 
-discord.link/payn
+Join My Discord :) :discord.link/payn
